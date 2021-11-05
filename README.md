@@ -101,3 +101,5 @@ polish - With LM - | WER: 0.39526828695550076 | CER: 0.17596985266474516 | Time:
 I didn't obtain any good results even when trying out a variety of different settings for `alpha` and `beta`. 
 Sadly there aren't many examples, tutorials or docs on [parlance/ctcdecode](https://github.com/parlance/ctcdecode)
 so it's hard to find the reason for the problem.
+
+Also tried it out for other languages like Portuguese and Spanish, but no luck there either.
