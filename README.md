@@ -1,4 +1,4 @@
-# 🤗 Transformers Wav2Vec2 + PyCTCDecode
+# 🤗 Transformers Wav2Vec2 + Parlance's CTCDecode
 
 ## Introduction
 
